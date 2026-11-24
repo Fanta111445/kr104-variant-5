@@ -9,6 +9,7 @@
 | [report.pdf](report.pdf) · [report.docx](report.docx) | Курсовая работа, расчёты, результаты и выводы |
 | [main.cpp](main.cpp) | Исходный код программы |
 | [CODE-EXPLANATION.md](CODE-EXPLANATION.md) | Разбор кода и пример для защиты |
+| [explanation.html](explanation.html) | Один HTML-файл с полным объяснением, исходником, диаграммами и интерактивной проверкой входа |
 | [bin/kr104.exe](bin/kr104.exe) | Готовая программа для Windows x64 |
 | [results/results.csv](results/results.csv) | Счётчики и доли успешных входов для девяти сочетаний |
 | [results/outsider.png](results/outsider.png) · [results/owner.png](results/owner.png) | Диаграммы успешных входов постороннего и владельца |
